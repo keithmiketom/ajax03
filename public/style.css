@@ -1,0 +1,44 @@
+div#menu{
+    background-color: #008b8b;
+    width: 1000px;
+    border-radius:20px;
+    margin: 0 auto;
+    padding:10px;
+
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: sans-serif;
+    margin-right: 15px;
+    margin-left: 10px ;
+}
+a:hover{
+    color: #fffacd;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+div#content{
+    background-color: #ffc0cb;
+    width: 1000px;
+    border-radius:30px;
+    margin: 0 auto;
+    min-height: 500px;
+    height: auto;
+    padding:20px;
+}
+
+table{
+    border: 1px solid #8a2be2;
+    border-radius: 10px;
+    font-family: sans-serif;
+    text-align: center;
+
+
+}
+
+td{
+    padding:8px;
+    border: 1px solid #8a2be2;
+}
